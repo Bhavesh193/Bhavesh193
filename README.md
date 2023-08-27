@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Choudhary</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">I am a Passionate Full Stack Web Developer from India | MERN STACK Enthusiast | Problem Solver | Skills with HTML5 ,CSS3 , JavaScript and more🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesh193&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh193" /> </p>
 
