@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Choudhary</h1>
-<h3 align="center">I am a Passionate Full Stack Web Developer from India | MERN STACK Enthusiast | Problem Solver | Skills with HTML5 ,CSS3 , JavaScript and more🚀</h3>
+<h3 align="center">I am a Passionate Full Stack Web Developer from India | MERN STACK Enthusiast | Problem Solver | Skills with JavaScript , React , NodeJS , MongoDB , Java , SQL and more🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesh193&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh193" /> </p>
 
@@ -7,11 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/its_bhavesh2001" target="blank"><img src="https://img.shields.io/twitter/follow/its_bhavesh2001?logo=twitter&style=for-the-badge" alt="its_bhavesh2001" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I am **Full Stack Web Development**
 
 - 📫 How to reach me **bhaveshchoudhary193@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/hp/Desktop/Coicent_Certificate.pdf](file:///C:/Users/hp/Desktop/Coicent_Certificate.pdf)
+- ❤️ TagLine - if (thought.content == 'I want to give up') {
+    throw new Error('Not yet!')
+}
 
 - ⚡ Fun fact **I am funny😄**
 
